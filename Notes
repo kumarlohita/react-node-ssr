@@ -1,0 +1,24 @@
+Babel packages to run jsx on server
+npm i @babel/preset-env @babel/preset-react @babel/register ignore-styles --save-dev
+
+-- HOW TO RUN --
+npm start
+to start the application in CSR
+npm run build
+to build the react application
+npm run SSR
+to run react as server side rendering
+
+--PERFORMANCE--
+
+CSR
+fast 3g
+home: 1300ms 15sec
+products: 14800ms 15sec
+
+SSR
+fast 3g
+home: 9000ms 9s
+products: 10000ms 10s
+
+
