@@ -873,8 +873,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2021
-      -03-06 15:00:03",
+      "sellableDate": "2021-03-06 15:00:03",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
