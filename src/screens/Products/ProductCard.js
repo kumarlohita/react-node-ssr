@@ -25,7 +25,7 @@ const ProductCard = props => {
     if (sellableDate > currentDate) {
       return (
         <>
-          <p className="small-green-text">Sold on</p>&nbsp;
+          <p className="small-green-text">Sale on</p>&nbsp;
           <p className="available-date">
             {new Date(item.sellableDate).toDateString()}
           </p>
