@@ -58,8 +58,8 @@ const ProductCard = props => {
   };
 
   const getAddToCardButton = () => {
-    const sellableDate = new Date(item.sellableDate).toDateString();
-    const currentDate = new Date().toDateString();
+    const sellableDate = new Date(item.sellableDate).toISOString();
+    const currentDate = new Date().toISOString();
 
     if (cartItems.includes(item.id)) {
       return (
