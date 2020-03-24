@@ -8,7 +8,7 @@ import ReactDomServer from 'react-dom/server'
 
 import apiRoutes from './src/api-routes';
 
-import App from '../src/App'
+import App from '../src/Router'
 
 // Initialize the app
 const app = express(apiRoutes);
