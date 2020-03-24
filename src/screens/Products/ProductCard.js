@@ -20,8 +20,8 @@ const ProductCard = props => {
   // const productImage = !props.image ? staticImage : props.image
 
   const getAvailableStatus = () => {
-    const sellableDate = new Date(item.sellableDate).toDateString();
-    const currentDate = new Date().toDateString();
+    const sellableDate = new Date(item.sellableDate).toISOString();
+    const currentDate = new Date().toISOString();
     if (sellableDate > currentDate) {
       return (
         <>
