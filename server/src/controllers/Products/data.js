@@ -221,7 +221,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-31 18:00:09",
+      "sellableDate": "2021-01-31 18:00:09",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -417,7 +417,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-23 07:00:26",
+      "sellableDate": "2021-01-23 07:00:26",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -531,7 +531,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-02-11 07:00:19",
+      "sellableDate": "2021-02-11 07:00:19",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -873,7 +873,8 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-03-06 15:00:03",
+      "sellableDate": "2021
+      -03-06 15:00:03",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -1101,7 +1102,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-16 07:00:24",
+      "sellableDate": "2021-01-16 07:00:24",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -1329,7 +1330,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-17 07:00:17",
+      "sellableDate": "2021-01-17 07:00:17",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -2889,7 +2890,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-02-22 07:00:18",
+      "sellableDate": "2021-02-22 07:00:18",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -3117,7 +3118,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-16 07:00:07",
+      "sellableDate": "2021-01-16 07:00:07",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -3345,7 +3346,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-02-17 18:00:06",
+      "sellableDate": "2021-02-17 18:00:06",
       "isGroup": false,
       "parentGroupIds": [
         "prod156750013"
@@ -3462,7 +3463,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-02-17 11:00:20",
+      "sellableDate": "2021-02-17 11:00:20",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -3576,7 +3577,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-02 11:00:04",
+      "sellableDate": "2021-01-02 11:00:04",
       "isGroup": false,
       "hasMoreItems": false,
       "source": "REGULAR",
@@ -4522,7 +4523,7 @@ export const PRODUCTS = () => {
         "dynamicImageSkuColor": false,
         "isEditorial": false
       },
-      "sellableDate": "2020-01-16 07:00:24",
+      "sellableDate": "2021-01-16 07:00:24",
       "isGroup": false,
       "parentGroupIds": [
         "prod156010005"
